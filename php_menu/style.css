@@ -1,0 +1,25 @@
+header {
+	font-family: 'Chewy', cursive;
+	font-size: 24px;
+	text-align: center;
+}
+header a {
+	text-decoration: none;
+	color: black;
+	}
+header li {
+	list-style: none;
+	display: inline;
+}
+header {
+	max-width: 100%;
+	padding-top: 25px;
+	margin-top: 0;
+	margin-bottom: 0px;
+}
+header a:hover {
+	color: blue;
+}
+.activepage {
+	color: red;
+}
